@@ -1,5 +1,5 @@
-@echo Installing wrapper online
+@echo Installing The Legacy Video Maker
 npm install
-@echo Starting wrapper online
+@echo Starting The Legacy Video Maker
 npm start
 pause
