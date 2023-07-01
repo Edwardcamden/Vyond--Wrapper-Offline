@@ -1,5 +1,5 @@
-# Vyond Legacy Remastered
-Vyond Legacy is Retired on called Vyond Legacy Remastered is Not Reborn 1.2.1
+# Legacy Video Maker From Vyond
+This Is My Own LVM CLone
 
 # Vyond Legacy Remastered Assets Server
 If you want too edit the Asset Server, then click [here](https://github.com/Vyond-Legacy/Vyond-Legacy-Remastered-Assets).
